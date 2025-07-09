@@ -21,22 +21,36 @@ Also preparing for **GSoC 2026** & future software engineering opportunities �
 
 ---
 
+## 📁 Folder Structure
+dsa-cpp/
+├── if-else/
+│ └── maxOfTwo.cpp
+├── functions/
+│ └── factorial.cpp
+├── pointers/
+│ └── pointerBasics.cpp
+├── arrays/
+│ └── reverseArray.cpp
+├── strings/
+│ └── isPalindrome.cpp
 
+> Each folder contains multiple `.cpp` files with clean logic and comments.
 
 ---
 
 ## 🛠️ Tools Used
 
 - Programming Language: **C++**
-- IDE: **VS Code**
-- Platforms Practiced On: **LeetCode**, **GFG**, **CodeStudio**
+- IDE: **Visual Studio Code**
+- Version Control: **Git + GitHub**
+- Platforms Practiced On: **LeetCode**, **GeeksforGeeks**, **CodeStudio**
 
 ---
 
 ## 🎯 My Goal
 
 > 📅 Solve 1500+ DSA problems before March 2026  
-> ⚔️ Daily 4 problems | C++ only | 100% consistency  
+> ⚔️ Daily 4 problems | 100% consistency  
 > 💼 Land top tech offers & contribute to GSoC
 
 ---
@@ -53,13 +67,16 @@ Also preparing for **GSoC 2026** & future software engineering opportunities �
 
 ## 🔥 How to Use This Repo
 
-- Navigate to any topic folder (e.g., `arrays/`, `strings/`)
-- Each file contains a well-commented C++ solution
-- Read, run, practice, repeat 💻✅
+- Navigate to any topic folder (e.g., `arrays/`, `pointers/`)
+- Read the `.cpp` code, run it, and try writing your own version
+- Stay consistent and commit regularly 💻✅
 
 ---
 
 ## 📌 Fun Fact
 
 I debug code and lift weights — full-stack inside and out 💪  
+
+
+
 
