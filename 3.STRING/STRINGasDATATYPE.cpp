@@ -1,5 +1,6 @@
 #include <iostream>
-#include<string>//if there is an error to recoginze the string data type
+#include<string>
+//if there is an error to recoginze the string data type
 using namespace std;
 
 int main() {
